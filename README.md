@@ -119,4 +119,4 @@ The game is built on top of these packs. Only the files the scenes above use, pl
 
 This public repository is a **showcase**. It contains the documentation and the **33 source files I wrote** for this project. The complete project, including licensed third-party assets that cannot be redistributed, is kept in a private repository.
 
-Copyright © Omer Avcioglu (McHunter Studio). **All rights reserved.** Viewing only; see LICENSE.
+Copyright © Omer Avcioglu (McHunter Studio). **All rights reserved.** Viewing only; see [LICENSE](LICENSE).
